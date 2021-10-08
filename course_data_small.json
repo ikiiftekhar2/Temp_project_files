@@ -1,0 +1,381 @@
+{
+  "CSC110": {
+    "courseCode": "CSC110",
+    "courseTitle": "Foundations of Computer Science I",
+    "sections": [
+      {
+        "sectionCode": "LEC0101",
+        "term": "F",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Tuesday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC0201",
+        "term": "F",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Tuesday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC9101",
+        "term": "F",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Tuesday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC9201",
+        "term": "F",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Tuesday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          }
+        ]
+      }
+    ]
+  },
+  "CSC111": {
+    "courseCode": "CSC111",
+    "courseTitle": "Foundations of Computer Science II",
+    "sections": [
+      {
+        "sectionCode": "LEC0101",
+        "term": "S",
+        "meetingTimes": [
+          {
+            "day": "Tuesday",
+            "startTime": "14:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "12:00",
+            "endTime": "14:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC9101",
+        "term": "S",
+        "meetingTimes": [
+          {
+            "day": "Tuesday",
+            "startTime": "14:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "12:00",
+            "endTime": "14:00"
+          }
+        ]
+      }
+    ]
+  },
+  "MAT137": {
+    "courseCode": "MAT137",
+    "courseTitle": "Calculus with Proofs",
+    "sections": [
+      {
+        "sectionCode": "LEC0101",
+        "term": "Y",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "09:00",
+            "endTime": "10:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "09:00",
+            "endTime": "10:00"
+          },
+          {
+            "day": "Friday",
+            "startTime": "09:00",
+            "endTime": "10:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC0201",
+        "term": "Y",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "10:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Thursday",
+            "startTime": "10:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Friday",
+            "startTime": "10:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC0301",
+        "term": "Y",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "11:00",
+            "endTime": "12:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "11:00",
+            "endTime": "12:00"
+          },
+          {
+            "day": "Thursday",
+            "startTime": "11:00",
+            "endTime": "12:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC0401",
+        "term": "Y",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "12:00",
+            "endTime": "13:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "12:00",
+            "endTime": "13:00"
+          },
+          {
+            "day": "Friday",
+            "startTime": "12:00",
+            "endTime": "13:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC0501",
+        "term": "Y",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "14:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Thursday",
+            "startTime": "14:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Friday",
+            "startTime": "14:00",
+            "endTime": "15:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC0601",
+        "term": "Y",
+        "meetingTimes": [
+          {
+            "day": "Tuesday",
+            "startTime": "09:00",
+            "endTime": "10:00"
+          },
+          {
+            "day": "Thursday",
+            "startTime": "09:00",
+            "endTime": "10:00"
+          },
+          {
+            "day": "Friday",
+            "startTime": "10:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC0701",
+        "term": "Y",
+        "meetingTimes": [
+          {
+            "day": "Tuesday",
+            "startTime": "13:00",
+            "endTime": "14:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "13:00",
+            "endTime": "14:00"
+          },
+          {
+            "day": "Friday",
+            "startTime": "13:00",
+            "endTime": "14:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC5101",
+        "term": "Y",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "20:00",
+            "endTime": "21:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "20:00",
+            "endTime": "21:00"
+          },
+          {
+            "day": "Thursday",
+            "startTime": "20:00",
+            "endTime": "21:00"
+          }
+        ]
+      }
+    ]
+  },
+  "MAT157": {
+    "courseCode": "MAT157",
+    "courseTitle": "Analysis I",
+    "sections": [
+      {
+        "sectionCode": "LEC0101",
+        "term": "Y",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "10:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "10:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Friday",
+            "startTime": "10:00",
+            "endTime": "11:00"
+          }
+        ]
+      }
+    ]
+  },
+  "STA130": {
+    "courseCode": "STA130",
+    "courseTitle": "An Introduction to Statistical Reasoning and Data Science",
+    "sections": [
+      {
+        "sectionCode": "LEC0101",
+        "term": "F",
+        "meetingTimes": [
+          {
+            "day": "Tuesday",
+            "startTime": "10:00",
+            "endTime": "12:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC0201",
+        "term": "F",
+        "meetingTimes": [
+          {
+            "day": "Tuesday",
+            "startTime": "14:00",
+            "endTime": "16:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC0101",
+        "term": "S",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "10:00",
+            "endTime": "12:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC0201",
+        "term": "S",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "14:00",
+            "endTime": "16:00"
+          }
+        ]
+      }
+    ]
+  }
+}

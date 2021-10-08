@@ -1,0 +1,92 @@
+{
+  "CSC110": {
+    "courseCode": "CSC110",
+    "courseTitle": "Foundations of Computer Science I",
+    "sections": [
+      {
+        "sectionCode": "LEC0101",
+        "term": "F",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Tuesday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC0201",
+        "term": "F",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Tuesday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC9101",
+        "term": "F",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Tuesday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "09:00",
+            "endTime": "11:00"
+          }
+        ]
+      },
+      {
+        "sectionCode": "LEC9201",
+        "term": "F",
+        "meetingTimes": [
+          {
+            "day": "Monday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Tuesday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          },
+          {
+            "day": "Wednesday",
+            "startTime": "13:00",
+            "endTime": "15:00"
+          }
+        ]
+      }
+    ]
+  }
+}
