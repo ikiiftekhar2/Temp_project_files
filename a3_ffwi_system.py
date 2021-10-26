@@ -143,7 +143,7 @@ def calculate_ffmc(wm: WeatherMetrics, f0: float) -> float:
     """
     # Calculate the fine fuel moisture content from the previous day
     mo = (147.2 * (101.0 - f0)) / (59.5 + f0)  # Equation 1
-    if float(wm.precipitation) > 0.5:
+    if wm.precipitation > 0.5:
         mo = calculate_mr(wm.precipitation, mo)
 
     if mo > 250.0:
